@@ -1,4 +1,4 @@
-public class Sloution367 {
+public class Solution367 {
     public boolean Sloution367(int num) {
         if (num == 1) {
             return true;
